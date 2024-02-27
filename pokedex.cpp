@@ -541,7 +541,7 @@ void Pokedex::comparePokemons(const pokemon &pokemon1, const pokemon &pokemon2) 
     QCategoryAxis *asse = new QCategoryAxis;
     asse->setLabelsPosition(QCategoryAxis::AxisLabelsPositionOnValue);
     asse->setRange(0, 360);
-    // adding labelels every 360/6categories = 60 degrees
+    // adding labels every 360/6 degrees 
     asse->append("SPEED", 0);
     asse->append("HP", 60);
     asse->append("SP.ATK", 120);
