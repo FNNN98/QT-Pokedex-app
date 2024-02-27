@@ -13,10 +13,12 @@ Informations and dependencies
 
 
     
-Overview
+<h3 align="left"> Overview:</h3>
 
 The Pokedex project is a Qt C++ application designed to provide a comprehensive interface for browsing and comparing Pokemon data. It parses data from a CSV file containing information about various Pokemon, including their types, stats and images and stores the information in a dedicated pokemon struct. 
-The struct is then manipulated by the application to allow users to filter Pokemon by type and compare the stats of different Pokemon using the radar chart provided by the Comparison Tool in the second tab.
+
+The struct is then manipulated by the application to allow users to filter Pokemons by type and compare the stats of different Pokemon using the radar chart provided by the Comparison Tool in the second tab.
+
 Downsized images for table data visualization are also cached in a custom QPixMap object to optimize speed and efficiency.
 
 
