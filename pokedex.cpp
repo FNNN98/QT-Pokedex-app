@@ -78,7 +78,7 @@ void Pokedex::initializeUI(){
     ui->label_3->setAlignment(Qt::AlignCenter);
 
     // enable sorting for the tableView
-    tableView->setSortingEnabled(true);
+    //tableView->setSortingEnabled(true);
 
 }
 
@@ -541,7 +541,7 @@ void Pokedex::comparePokemons(const pokemon &pokemon1, const pokemon &pokemon2) 
     QCategoryAxis *asse = new QCategoryAxis;
     asse->setLabelsPosition(QCategoryAxis::AxisLabelsPositionOnValue);
     asse->setRange(0, 360);
-    // adding labels every 360/6 degrees 
+    // adding labelels every 360/6categories = 60 degrees
     asse->append("SPEED", 0);
     asse->append("HP", 60);
     asse->append("SP.ATK", 120);
