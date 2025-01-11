@@ -40,8 +40,3 @@ The radar chart provides a visual representation of each selected Pokemon's stat
 <img src="https://github.com/FNNN98/QT-Pokedex-app/blob/main/pokedex3.png?raw=true" width="800">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/axaro11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axaro11" height="30" width="40" /></a>
-</p>
-
